@@ -11,7 +11,7 @@ const Footer = () => {
         <a href='/'>
         <img  src={darkLogo}  alt='' />
         </a> 
-        Copyright &copy; 2024. All rights reserved.
+        Copyright &copy; 2024 Natnael Desta. All rights reserved.
       </div>
     </footer>
   )
